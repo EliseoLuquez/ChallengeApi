@@ -33,15 +33,20 @@ namespace TotvsChallengeApp.Application.Services.Change
                 message = CalculateTransaction.CalculateChangeDetail(change);
             }
 
-            var transaction = new Transaction
-            {
-                Id = Guid.NewGuid(),
-                AmountPaid = amountPaid,
-                TotalCost = totalCost,
-                Change = change,
-                MessageChange = JsonSerializer.Serialize(message),
-                DateCreate = DateTime.Now
-            };
+            var transaction = new Transaction();
+
+            transaction.Id = Guid.NewGuid();
+            transaction.AmountPaid = amountPaid;
+            transaction.TotalCost = totalCost;
+            transaction.Change = change;
+            transaction.MessageChange = "Entregar: ";
+
+            var messagesAux = message.ToArray();
+ 
+            var separador = " e ";
+            transaction.MessageChange = string.Join(separador, messagesAux);
+            transaction.DateCreate = DateTime.Now;
+
 
             await _transactionRepository.Add(transaction);
 

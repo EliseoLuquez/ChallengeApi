@@ -3,6 +3,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 using TotvsChallengeApp.Application.Helpers;
 using TotvsChallengeApp.Application.Interfaces;
@@ -28,7 +29,9 @@ namespace TotvsChallengeApp.Api.Controllers
         [HttpGet("GetTransactions")]
         public async Task<IEnumerable<Transaction>> GetTransactions()
         {
-            return  await _transactionRepository.GetAll();
+            var transactions =  await _transactionRepository.GetAll();
+
+            return transactions;
         }
 
         [HttpPost("GetChange")]

@@ -109,8 +109,8 @@ C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\staticwebassets\TotvsChallengeApp.Api.StaticWebAssets.xml
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\scopedcss\bundle\TotvsChallengeApp.Api.styles.css
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\TotvsChallengeApp.Api.RazorTargetAssemblyInfo.cache
-C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\TotvsChallengeApp.Api.csproj.CopyComplete
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\TotvsChallengeApp.Api.dll
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\ref\TotvsChallengeApp.Api.dll
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\TotvsChallengeApp.Api.pdb
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\TotvsChallengeApp.Api.genruntimeconfig.cache
+C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Api\obj\Debug\net5.0\TotvsChallengeApp.Api.csproj.CopyComplete
