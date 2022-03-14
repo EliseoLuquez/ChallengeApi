@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TotvsChallengeApp.Application/1.0.0": {
+        "dependencies": {
+          "TotvsChallengeApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "TotvsChallengeApp.Application.dll": {}
+        }
+      },
+      "TotvsChallengeApp.Core/1.0.0": {
+        "runtime": {
+          "TotvsChallengeApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TotvsChallengeApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TotvsChallengeApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

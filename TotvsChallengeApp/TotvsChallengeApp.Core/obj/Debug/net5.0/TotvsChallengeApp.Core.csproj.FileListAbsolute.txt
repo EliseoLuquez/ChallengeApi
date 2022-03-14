@@ -1,0 +1,12 @@
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\bin\Debug\net5.0\TotvsChallengeApp.Core.deps.json
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\bin\Debug\net5.0\TotvsChallengeApp.Core.dll
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\bin\Debug\net5.0\ref\TotvsChallengeApp.Core.dll
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\bin\Debug\net5.0\TotvsChallengeApp.Core.pdb
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\TotvsChallengeApp.Core.csproj.AssemblyReference.cache
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\TotvsChallengeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\TotvsChallengeApp.Core.AssemblyInfoInputs.cache
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\TotvsChallengeApp.Core.AssemblyInfo.cs
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\TotvsChallengeApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\TotvsChallengeApp.Core.dll
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\ref\TotvsChallengeApp.Core.dll
+C:\Users\lelis\Documents\Challenge\TotvsChallengeApp\TotvsChallengeApp.Core\obj\Debug\net5.0\TotvsChallengeApp.Core.pdb
