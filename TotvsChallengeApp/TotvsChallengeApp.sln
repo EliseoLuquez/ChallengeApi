@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotvsChallengeApp.Api", "TotvsChallengeApp.Api\TotvsChallengeApp.Api.csproj", "{164CAA89-6D2A-410B-87B5-EEAAD621CCA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotvsChallengeApp.Api", "TotvsChallengeApp.Api\TotvsChallengeApp.Api.csproj", "{164CAA89-6D2A-410B-87B5-EEAAD621CCA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotvsChallengeApp.Core", "TotvsChallengeApp.Core\TotvsChallengeApp.Core.csproj", "{74F72357-0CE2-4681-A151-2BDCDA3D7579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotvsChallengeApp.Core", "TotvsChallengeApp.Core\TotvsChallengeApp.Core.csproj", "{74F72357-0CE2-4681-A151-2BDCDA3D7579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotvsChallengeApp.Application", "TotvsChallengeApp.Application\TotvsChallengeApp.Application.csproj", "{5110C18A-9085-4EB2-BC73-6D81F5BF9D41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotvsChallengeApp.Application", "TotvsChallengeApp.Application\TotvsChallengeApp.Application.csproj", "{5110C18A-9085-4EB2-BC73-6D81F5BF9D41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotvsChallengeApp.Infrastructure", "TotvsChallengeApp.Infrastructure\TotvsChallengeApp.Infrastructure.csproj", "{3AD36FFE-CA12-4EF0-8956-A94EB4E78547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotvsChallengeApp.Infrastructure", "TotvsChallengeApp.Infrastructure\TotvsChallengeApp.Infrastructure.csproj", "{3AD36FFE-CA12-4EF0-8956-A94EB4E78547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotvsChallengeApp.Test", "TotvsChallengeApp.Test\TotvsChallengeApp.Test.csproj", "{12B0CD29-808A-4D94-9DDA-D282FA154273}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3AD36FFE-CA12-4EF0-8956-A94EB4E78547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD36FFE-CA12-4EF0-8956-A94EB4E78547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD36FFE-CA12-4EF0-8956-A94EB4E78547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B0CD29-808A-4D94-9DDA-D282FA154273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B0CD29-808A-4D94-9DDA-D282FA154273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B0CD29-808A-4D94-9DDA-D282FA154273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B0CD29-808A-4D94-9DDA-D282FA154273}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -28,6 +28,7 @@ C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastr
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastructure\obj\Debug\net5.0\TotvsChallengeApp.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastructure\obj\Debug\net5.0\TotvsChallengeApp.Infrastructure.AssemblyInfo.cs
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastructure\obj\Debug\net5.0\TotvsChallengeApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastructure\obj\Debug\net5.0\TotvsChallengeApp.Infrastructure.csproj.CopyComplete
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastructure\obj\Debug\net5.0\TotvsChallengeApp.Infrastructure.dll
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastructure\obj\Debug\net5.0\ref\TotvsChallengeApp.Infrastructure.dll
 C:\Users\lelis\Desktop\ChallengeApi\TotvsChallengeApp\TotvsChallengeApp.Infrastructure\obj\Debug\net5.0\TotvsChallengeApp.Infrastructure.pdb
