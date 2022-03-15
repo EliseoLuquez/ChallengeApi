@@ -23,9 +23,9 @@ namespace TotvsChallengeApp.Test
             
             var message = CalculateTransaction.CalculateChangeDetail(change);
 
-            Assert.AreEqual("Bilhete de BRL 10,00 : 1", message[0]);
-            Assert.AreEqual("Moedas de BRL 0,10 : 2", message[1]);
-            Assert.AreEqual("Moedas de BRL 0,05 : 1", message[2]);
+            Assert.AreEqual("1 Bilhete de BRL 10,00", message[0]);
+            Assert.AreEqual("2 Moedas de BRL 0,10", message[1]);
+            Assert.AreEqual("1 Moedas de BRL 0,05", message[2]);
         }
     }
 }
