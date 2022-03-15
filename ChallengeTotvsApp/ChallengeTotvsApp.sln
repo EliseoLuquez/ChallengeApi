@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeTotvsApp.Test", "ChallengeTotvsApp.Test\ChallengeTotvsApp.Test.csproj", "{9F2C2F47-91EB-4738-929F-01C08347598F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeTotvsApp.Api", "ChallengeTotvsChallengeApp.Api\ChallengeTotvsApp.Api.csproj", "{4F8B4437-0225-472A-A04A-D5416AEAE24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F2C2F47-91EB-4738-929F-01C08347598F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2C2F47-91EB-4738-929F-01C08347598F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2C2F47-91EB-4738-929F-01C08347598F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2C2F47-91EB-4738-929F-01C08347598F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8B4437-0225-472A-A04A-D5416AEAE24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8B4437-0225-472A-A04A-D5416AEAE24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8B4437-0225-472A-A04A-D5416AEAE24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8B4437-0225-472A-A04A-D5416AEAE24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12C7DCB9-C51D-4730-BF44-352F086FD972}
+	EndGlobalSection
+EndGlobal
